@@ -1,0 +1,7 @@
+nam1    ==>>    hello  [8:0:28 pm]
+nam1    ==>>    kita  [8:0:36 pm]
+nam1    ==>>    valo?  [8:0:41 pm]
+nam2    ==>>    hmm
+nam2    ==>>    tumi?
+nam2    ==>>    kemon aco?
+nam2    ==>>    r vabi?

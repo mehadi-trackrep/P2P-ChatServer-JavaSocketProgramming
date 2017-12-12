@@ -1,0 +1,6 @@
+abc    ==>>    hmm
+abc    ==>>    ki khobor
+abc    ==>>    bal
+123    ==>>    kita
+123    ==>>    ddd
+123    ==>>    f
